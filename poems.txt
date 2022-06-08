@@ -9,4 +9,5 @@ The light of a candle
 I write, erase, rewrite
 Erase again, and then
 
+for tag only
 
